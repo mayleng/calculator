@@ -1,0 +1,9 @@
+C:\Users\bonree\Desktop\webapi\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\bonree\Desktop\webapi\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\bonree\Desktop\webapi\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\bonree\Desktop\webapi\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\bonree\Desktop\webapi\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\bonree\Desktop\webapi\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\bonree\Desktop\webapi\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\bonree\Desktop\webapi\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\bonree\Desktop\webapi\calculator\calculator\obj\Debug\calculator.pdb
